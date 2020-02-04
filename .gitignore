@@ -123,3 +123,4 @@ dmypy.json
 
 # Custom
 .vscode/
+node_modules/
