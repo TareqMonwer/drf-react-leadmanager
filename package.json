@@ -24,7 +24,7 @@
     "@babel/preset-react": "^7.8.3",
     "babel-loader": "^8.0.6",
     "babel-plugin-transform-class-properties": "^6.24.1",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   },
